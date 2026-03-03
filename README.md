@@ -4,14 +4,14 @@ Currently working on agentic task environments for work evals. 🤖
 
 ---
 
-## 🔭 Technical interests:
+## 🔭 Interests:
 
-- 🤝 Multi-agent orchestration & tool routing  
-- 🧠 Dynamic context, agent memory, evaluation loops & digital twins  
-- 🧪 Work simulations & structured trials
+- 🧩 General vs. specialized intelligence  
+- 🤝 Multi-agent orchestration
+- 🧠 Dynamic context and agent memory 
+- 🧪 Work simulations
 - 👾 Human data as a new asset class
 - 📊 RAG + human-AI interaction data pipelines  
-- 🧩 General vs. specialized intelligence  
 - 🕸️ Coordination cost as the constraint on scale
 - 🛠️ Tool-calling reliability & agent routing systems
 ---
