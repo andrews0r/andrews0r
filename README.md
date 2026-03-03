@@ -1,16 +1,19 @@
 ## Hi there 👋  
 
-Currently working on **Intersection** — agentic task environments for real work. 🤖  
+Currently working on agentic task environments for work evals. 🤖  
 
 ---
 
-## 🔭 What I’m Focused On
+## 🔭 Technical interests:
 
 - 🤝 Multi-agent orchestration & tool routing  
 - 🧠 Dynamic context, agent memory, evaluation loops & digital twins  
-- 🧪 Work simulations & structured trials  
+- 🧪 Work simulations & structured trials
+- 👾 Human data as a new asset class
 - 📊 RAG + human-AI interaction data pipelines  
-
+- 🧩 General vs. specialized intelligence  
+- 🕸️ Coordination cost as the constraint on scale
+- 🛠️ Tool-calling reliability & agent routing systems
 ---
 
 ## 🧩 Background
@@ -22,9 +25,4 @@ Currently working on **Intersection** — agentic task environments for real wor
 
 ---
 
-## 🧠 Themes I’m Curious About
 
-- General vs. specialized intelligence  
-- Coordination cost as the constraint on scale  
-- Human data as a new asset class  
-- Tool-calling reliability & agent routing systems  
