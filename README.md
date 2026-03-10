@@ -1,7 +1,4 @@
 ## Hi there 👋  
-
-Currently working on agentic task environments for work evals. 🤖  
-
 ---
 
 ## 🔭 Interests:
