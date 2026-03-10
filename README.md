@@ -1,5 +1,7 @@
 ## Hi there 👋  
 ---
+I’m interested in how tools expand humnan capabilities.
+---
 
 ## 🔭 Interests:
 
