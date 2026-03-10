@@ -1,27 +1,19 @@
-## Hi there 👋  
----
-I’m interested in how tools expand humnan capabilities.
----
+## Hi there 👋
 
-## 🔭 Interests:
+I’m interested in how tools expand human capability.
 
-- 🧩 General vs. specialized intelligence  
-- 🤝 Multi-agent orchestration
-- 🧠 Dynamic context and agent memory 
-- 🧪 Work simulations
-- 👾 Human data as a new asset class
-- 📊 RAG + human-AI interaction data pipelines  
-- 🕸️ Coordination cost as the constraint on scale
-- 🛠️ Tool-calling reliability & agent routing systems
----
+### 🔭 Interests
+- General vs. specialized intelligence
+- Multi-agent orchestration
+- Dynamic context and agent memory
+- Work simulations
+- Human data as a new asset class
+- RAG and human-AI interaction data pipelines
+- Coordination costs as a constraint on scale
+- Tool-calling reliability and agent routing systems
 
-## 🧩 Background
-
-- 🎓 Mathematical modelling, stochastic systems & cybernetics  
-- 🛠 Built AI products (computer vision lab, learning agents, applied systems)  
-- 🚀 Worked in VC investing in early-stage AI & robotics  
-- 🌉 Based in San Francisco  
-
----
-
-
+### 🧩 Background
+- Mathematical modelling, stochastic systems, and cybernetics
+- Built AI products across computer vision, learning agents, and applied systems
+- Worked in VC investing in early-stage AI and robotics
+- Based in San Francisco
