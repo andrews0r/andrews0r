@@ -12,7 +12,7 @@ I’m interested in how new tools expand human capability.
 - Coordination costs as a constraint on scale
 
 ### 🧩 Background
-- Applied mathematics and economics
-- Built AI products across computer vision, learning agents, and applied systems
-- Worked in VC investing in early-stage AI and robotics
+- Applied mathematics and computational economics
+- Founded and exited a computer vision startup; built agent and simulation products
+- Built the venture arm of a $450M fund from scratch, investing in early-stage AI, robotics and quantum
 - Based in San Francisco
