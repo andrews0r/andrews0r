@@ -2,7 +2,7 @@
 
 I’m interested in how new tools expand human capability.
 
-### 🔭 Interests
+### 👾 Interests
 - General vs. specialized intelligence
 - Agent harnesses: context engineering, memory, multi-agent orchestration
 - Simulated work environments and RL environments
@@ -13,6 +13,5 @@ I’m interested in how new tools expand human capability.
 
 ### 🧩 Background
 - Applied mathematics and computational economics
-- Founded and exited a computer vision startup; built agent and simulation products
-- Built the venture arm of a $450M fund from scratch, investing in early-stage AI, robotics and quantum
+- Investing in early-stage AI, robotics and quantum computing companies
 - Based in San Francisco
