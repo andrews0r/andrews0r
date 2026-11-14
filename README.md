@@ -13,5 +13,5 @@ I’m interested in how new tools expand human capability.
 
 ### 🧩 Background
 - Applied mathematics and computational economics
-- Investing in early-stage AI, robotics and quantum computing companies
+- Investing in early-stage AI, robotics, quantum etc.
 - Based in San Francisco
